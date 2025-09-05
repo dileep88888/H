@@ -1,0 +1,5 @@
+{
+  "name": "Veo Video Generation Studio",
+  "description": "An AI-powered video creation tool that transforms your text ideas into cinematic scenes. Enter a prompt, let Gemini expand it, and watch as Veo generates a high-quality video for you to preview and enjoy.",
+  "requestFramePermissions": []
+}
